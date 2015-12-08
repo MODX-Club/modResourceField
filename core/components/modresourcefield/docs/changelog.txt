@@ -1,3 +1,8 @@
-First Commit
+1.0.0-beta
 ====================================================
+- Added custom TV
 
+
+1.1.0-beta
+====================================================
+- Added resource values restoring
